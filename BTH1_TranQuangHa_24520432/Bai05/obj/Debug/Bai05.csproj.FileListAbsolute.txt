@@ -1,0 +1,7 @@
+D:\Tài liệu học tập\IT008\BTH1_TranQuangHa_24520432\Bai05\bin\Debug\Bai05.exe.config
+D:\Tài liệu học tập\IT008\BTH1_TranQuangHa_24520432\Bai05\bin\Debug\Bai05.exe
+D:\Tài liệu học tập\IT008\BTH1_TranQuangHa_24520432\Bai05\bin\Debug\Bai05.pdb
+D:\Tài liệu học tập\IT008\BTH1_TranQuangHa_24520432\Bai05\obj\Debug\Bai05.csproj.AssemblyReference.cache
+D:\Tài liệu học tập\IT008\BTH1_TranQuangHa_24520432\Bai05\obj\Debug\Bai05.csproj.CoreCompileInputs.cache
+D:\Tài liệu học tập\IT008\BTH1_TranQuangHa_24520432\Bai05\obj\Debug\Bai05.exe
+D:\Tài liệu học tập\IT008\BTH1_TranQuangHa_24520432\Bai05\obj\Debug\Bai05.pdb

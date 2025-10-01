@@ -1,0 +1,16 @@
+D:\IT008\BTH1_TranQuangHa_24520432\Bai01\obj\Debug\Bai01.csproj.AssemblyReference.cache
+D:\IT008\BTH1_TranQuangHa_24520432\Bai01\obj\Debug\Bai01.csproj.CoreCompileInputs.cache
+D:\IT008\BTH1_TranQuangHa_24520432\Bai01\bin\Debug\Bai01.exe.config
+D:\IT008\BTH1_TranQuangHa_24520432\Bai01\bin\Debug\Bai01.exe
+D:\IT008\BTH1_TranQuangHa_24520432\Bai01\bin\Debug\Bai01.pdb
+D:\IT008\BTH1_TranQuangHa_24520432\Bai01\obj\Debug\Bai01.exe
+D:\IT008\BTH1_TranQuangHa_24520432\Bai01\obj\Debug\Bai01.pdb
+D:\IT008\BTH1_TranQuangHa_24520432\Bai01\obj\Debug\Bai01.exe.config
+D:\Tài liệu học tập\IT008\BTH1_TranQuangHa_24520432\Bai01\bin\Debug\Bai01.exe.config
+D:\Tài liệu học tập\IT008\BTH1_TranQuangHa_24520432\Bai01\bin\Debug\Bai01.exe
+D:\Tài liệu học tập\IT008\BTH1_TranQuangHa_24520432\Bai01\bin\Debug\Bai01.pdb
+D:\Tài liệu học tập\IT008\BTH1_TranQuangHa_24520432\Bai01\obj\Debug\Bai01.csproj.AssemblyReference.cache
+D:\Tài liệu học tập\IT008\BTH1_TranQuangHa_24520432\Bai01\obj\Debug\Bai01.exe.config
+D:\Tài liệu học tập\IT008\BTH1_TranQuangHa_24520432\Bai01\obj\Debug\Bai01.csproj.CoreCompileInputs.cache
+D:\Tài liệu học tập\IT008\BTH1_TranQuangHa_24520432\Bai01\obj\Debug\Bai01.exe
+D:\Tài liệu học tập\IT008\BTH1_TranQuangHa_24520432\Bai01\obj\Debug\Bai01.pdb
