@@ -8,8 +8,8 @@ namespace BTH2_24520432
 {
     public class NhaPho : BatDongSan
     {
-        protected int namxaydung;
-        protected int sotang;
+        private int namxaydung;
+        private int sotang;
 
         public override void nhap()
         {

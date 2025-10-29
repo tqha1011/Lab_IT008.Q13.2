@@ -8,7 +8,7 @@ namespace BTH2_24520432
 {
     public class ChungCu : BatDongSan
     {
-        protected int tang;
+        private int tang;
         public override void nhap()
         {
             base.nhap();

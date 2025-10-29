@@ -58,7 +58,7 @@ namespace BTH2_24520432
         {
             for(int i = 0; i < danhSach.Count; i++)
             {
-                Console.Write(danhSach[i].ToString() + "");
+                Console.Write(danhSach[i].ToString() + " ");
             }
             Console.WriteLine();
         }
@@ -87,14 +87,29 @@ namespace BTH2_24520432
                 {
                     case 1:
                         PhanSo tong = ps1 + ps2;
+                        if(tong.getTuSo() == 0)
+                        {
+                            Console.WriteLine("Tong cua hai phan so: 0");
+                            break;
+                        }
                         Console.WriteLine("Tong cua hai phan so: " + tong.ToString());
                         break;
                     case 2:
                         PhanSo hieu = ps1 - ps2;
+                        if(hieu.getTuSo() == 0)
+                        {
+                            Console.WriteLine("Hieu cua hai phan so: 0");
+                            break;
+                        }
                         Console.WriteLine("Hieu cua hai phan so: " + hieu.ToString());
                         break;
                     case 3:
                         PhanSo tich = ps1 * ps2;
+                        if(tich.getTuSo() == 0)
+                        {
+                            Console.WriteLine("Tich cua hai phan so: 0");
+                            break;
+                        }
                         Console.WriteLine("Tich cua hai phan so: " + tich.ToString());
                         break;
                     case 4:
@@ -159,6 +174,7 @@ namespace BTH2_24520432
                         break;
                     case 3:
                         sapxepDanhSachPhanSo(danhSachPhanSo);
+                        Console.WriteLine("Danh sach phan so sau sap xep:");
                         xuatDanhSach(danhSachPhanSo);
                         break;
                     case 4:

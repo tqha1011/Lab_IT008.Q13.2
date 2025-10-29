@@ -25,16 +25,19 @@ namespace BTH2_24520432
                 switch (select)
                 {
                     case 1:
+                        Console.WriteLine("Thong tin nha dat: ");
                         KhuDat dat = new KhuDat();
                         dat.nhap();
                         danhSach.Add(dat);
                         break;
                     case 2:
+                        Console.WriteLine("Thong tin chung cu: ");
                         ChungCu cc = new ChungCu();
                         cc.nhap();
                         danhSach.Add(cc);
                         break;
                     case 3:
+                        Console.WriteLine("Thong tin nha pho: ");
                         NhaPho np = new NhaPho();
                         np.nhap();
                         danhSach.Add(np);

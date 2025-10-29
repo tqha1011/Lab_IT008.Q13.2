@@ -90,6 +90,6 @@ namespace BTH2_24520432
         public int getTuSo()
         {
             return tuSo;
-        }   
+        }
     }
 }

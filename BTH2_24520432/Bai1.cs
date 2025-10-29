@@ -40,6 +40,8 @@ namespace BTH2_24520432
             {
                 Console.WriteLine("Nhap nam: ");
             } while (!int.TryParse(Console.ReadLine(), out year) || year < 1);
+            Console.WriteLine("Lich thang " + month +"/" +year);
+            Console.WriteLine();
             printCalendar(month, year);
         }
     }
