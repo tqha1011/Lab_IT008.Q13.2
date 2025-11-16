@@ -1,6 +1,6 @@
 ﻿namespace BTH3_TranQuangHa
 {
-    partial class Form1
+    partial class Bai1
     {
         /// <summary>
         /// Required designer variable.
@@ -33,11 +33,11 @@
             this.lblActivated = new Krypton.Toolkit.KryptonLabel();
             this.lblShow = new Krypton.Toolkit.KryptonLabel();
             this.lblClose = new Krypton.Toolkit.KryptonLabel();
+            this.lblClosed = new Krypton.Toolkit.KryptonLabel();
             this.txtLoad = new Krypton.Toolkit.KryptonTextBox();
             this.txtShow = new Krypton.Toolkit.KryptonTextBox();
             this.txtActivated = new Krypton.Toolkit.KryptonTextBox();
             this.txtClosing = new Krypton.Toolkit.KryptonTextBox();
-            this.lblClosed = new Krypton.Toolkit.KryptonLabel();
             this.txtClosed = new Krypton.Toolkit.KryptonTextBox();
             this.flowLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
@@ -88,10 +88,19 @@
             this.lblClose.Values.Text = "Form Closing: ";
             this.lblClose.Click += new System.EventHandler(this.kryptonLabel4_Click);
             // 
+            // lblClosed
+            // 
+            this.lblClosed.Location = new System.Drawing.Point(3, 123);
+            this.lblClosed.Name = "lblClosed";
+            this.lblClosed.Size = new System.Drawing.Size(100, 24);
+            this.lblClosed.TabIndex = 4;
+            this.lblClosed.Values.Text = "Form Closed: ";
+            // 
             // txtLoad
             // 
             this.txtLoad.Location = new System.Drawing.Point(131, 1);
             this.txtLoad.Name = "txtLoad";
+            this.txtLoad.ReadOnly = true;
             this.txtLoad.Size = new System.Drawing.Size(145, 27);
             this.txtLoad.StateCommon.Border.Color1 = System.Drawing.Color.White;
             this.txtLoad.StateCommon.Border.Color2 = System.Drawing.Color.White;
@@ -101,6 +110,7 @@
             // 
             this.txtShow.Location = new System.Drawing.Point(131, 61);
             this.txtShow.Name = "txtShow";
+            this.txtShow.ReadOnly = true;
             this.txtShow.Size = new System.Drawing.Size(145, 27);
             this.txtShow.StateCommon.Border.Color1 = System.Drawing.Color.White;
             this.txtShow.StateCommon.Border.Color2 = System.Drawing.Color.White;
@@ -111,6 +121,7 @@
             // 
             this.txtActivated.Location = new System.Drawing.Point(131, 31);
             this.txtActivated.Name = "txtActivated";
+            this.txtActivated.ReadOnly = true;
             this.txtActivated.Size = new System.Drawing.Size(145, 27);
             this.txtActivated.StateCommon.Back.Color1 = System.Drawing.Color.White;
             this.txtActivated.StateCommon.Border.Color1 = System.Drawing.Color.White;
@@ -121,33 +132,27 @@
             // 
             this.txtClosing.Location = new System.Drawing.Point(131, 94);
             this.txtClosing.Name = "txtClosing";
+            this.txtClosing.ReadOnly = true;
             this.txtClosing.Size = new System.Drawing.Size(145, 27);
             this.txtClosing.StateCommon.Border.Color1 = System.Drawing.Color.White;
             this.txtClosing.StateCommon.Border.Color2 = System.Drawing.Color.White;
             this.txtClosing.TabIndex = 7;
             // 
-            // lblClosed
-            // 
-            this.lblClosed.Location = new System.Drawing.Point(3, 123);
-            this.lblClosed.Name = "lblClosed";
-            this.lblClosed.Size = new System.Drawing.Size(100, 24);
-            this.lblClosed.TabIndex = 4;
-            this.lblClosed.Values.Text = "Form Closed: ";
-            // 
             // txtClosed
             // 
             this.txtClosed.Location = new System.Drawing.Point(132, 128);
             this.txtClosed.Name = "txtClosed";
+            this.txtClosed.ReadOnly = true;
             this.txtClosed.Size = new System.Drawing.Size(145, 27);
             this.txtClosed.StateCommon.Border.Color1 = System.Drawing.Color.White;
             this.txtClosed.StateCommon.Border.Color2 = System.Drawing.Color.White;
             this.txtClosed.TabIndex = 8;
             // 
-            // Form1
+            // Bai1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(804, 436);
+            this.ClientSize = new System.Drawing.Size(808, 422);
             this.Controls.Add(this.txtClosed);
             this.Controls.Add(this.txtClosing);
             this.Controls.Add(this.txtActivated);
@@ -155,9 +160,10 @@
             this.Controls.Add(this.txtLoad);
             this.Controls.Add(this.flowLayoutPanel1);
             this.Location = new System.Drawing.Point(0, 0);
-            this.Name = "Form1";
+            this.Name = "Bai1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Bai 1";
+            this.Activated += new System.EventHandler(this.Bai1_Activated);
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
             this.Load += new System.EventHandler(this.Form1_Load);

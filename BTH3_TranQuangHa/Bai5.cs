@@ -11,9 +11,9 @@ using Krypton.Toolkit;
 
 namespace BTH3_TranQuangHa
 {
-    public partial class Form5 : KryptonForm
+    public partial class Bai5 : KryptonForm
     {
-        public Form5()
+        public Bai5()
         {
             InitializeComponent();
         }

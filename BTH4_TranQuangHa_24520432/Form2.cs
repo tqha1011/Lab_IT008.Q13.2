@@ -7,11 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Krypton.Toolkit;
 
-namespace BTH3_TranQuangHa
+namespace BTH4_TranQuangHa_24520432
 {
-    public partial class Form2 : KryptonForm
+    public partial class Form2 : Form
     {
         public Form2()
         {

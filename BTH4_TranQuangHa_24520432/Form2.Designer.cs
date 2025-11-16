@@ -1,4 +1,4 @@
-﻿namespace BTH3_TranQuangHa
+﻿namespace BTH4_TranQuangHa_24520432
 {
     partial class Form2
     {

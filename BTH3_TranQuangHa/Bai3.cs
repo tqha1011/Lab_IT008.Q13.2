@@ -12,10 +12,10 @@ using System.Drawing;
 
 namespace BTH3_TranQuangHa
 {
-    public partial class Form3 : KryptonForm
+    public partial class Bai3 : KryptonForm
     {
         private Random random = new Random();
-        public Form3()
+        public Bai3()
         {
             InitializeComponent();
         }

@@ -1,6 +1,6 @@
 ﻿namespace BTH3_TranQuangHa
 {
-    partial class Form4
+    partial class Bai4
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form4));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Bai4));
             this.kryptonColorDialog1 = new Krypton.Toolkit.KryptonColorDialog();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.formatToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();

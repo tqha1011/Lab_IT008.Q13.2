@@ -11,9 +11,9 @@ using Krypton.Toolkit;
 
 namespace BTH3_TranQuangHa
 {
-    public partial class Form1 : KryptonForm
+    public partial class Bai1 : KryptonForm
     {
-        public Form1()
+        public Bai1()
         {
             InitializeComponent();
         }
@@ -54,6 +54,12 @@ namespace BTH3_TranQuangHa
         {
             txtClosed.Text = "Form is closed";
             MessageBox.Show("Form is closed");
+        }
+
+        private void Bai1_Activated(object sender, EventArgs e)
+        {
+            txtActivated.Text = "Form is activated";
+  
         }
     }
 }

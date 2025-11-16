@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace BTH3_TranQuangHa
+namespace BTH4_TranQuangHa_24520432
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace BTH3_TranQuangHa
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Bai9());
+            Application.Run(new Bai6());
         }
     }
 }

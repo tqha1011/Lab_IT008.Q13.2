@@ -1,6 +1,6 @@
 ﻿namespace BTH3_TranQuangHa
 {
-    partial class Form5
+    partial class Bai5
     {
         /// <summary>
         /// Required designer variable.

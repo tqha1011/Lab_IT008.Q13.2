@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace BTH3_TranQuangHa
 {
-    public partial class Form4 : Form
+    public partial class Bai4 : Form
     {
-        public Form4()
+        public Bai4()
         {
             InitializeComponent();
         }

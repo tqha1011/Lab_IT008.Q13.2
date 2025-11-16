@@ -26,12 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -44,10 +40,8 @@
               "RelativeDocumentMoniker": "BTH3_TranQuangHa_24520432\\BTH3_TranQuangHa_24520432.csproj",
               "ToolTip": "D:\\T\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\IT008\\Lab_IT008\\BTH3_TranQuangHa_24520432\\BTH3_TranQuangHa_24520432.csproj",
               "RelativeToolTip": "BTH3_TranQuangHa_24520432\\BTH3_TranQuangHa_24520432.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-29T01:21:40.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T01:21:40.893Z"
             },
             {
               "$type": "Document",
@@ -59,8 +53,7 @@
               "RelativeToolTip": "BTH3_TranQuangHa_24520432\\Bai1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T01:20:27.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T01:20:27.609Z"
             },
             {
               "$type": "Document",
@@ -72,8 +65,7 @@
               "RelativeToolTip": "BTH3_TranQuangHa_24520432\\Bai1.Designer.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T01:20:24.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T01:20:24.475Z"
             },
             {
               "$type": "Document",
@@ -85,8 +77,7 @@
               "RelativeToolTip": ".gitignore",
               "ViewState": "AgIAAGIBAAAAAAAAAAAAAHUBAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001407|",
-              "WhenOpened": "2025-10-29T01:03:05.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T01:03:05.936Z"
             }
           ]
         }
