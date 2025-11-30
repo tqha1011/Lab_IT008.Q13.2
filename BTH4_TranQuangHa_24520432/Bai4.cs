@@ -12,12 +12,12 @@ using System.Text;
 
 namespace BTH4_TranQuangHa_24520432
 {
-    public partial class Form1 : Form
+    public partial class Bai4 : Form
     {
         private string currentFilePath = null;
         int fontSize = 14;
         string font = "Tahoma";
-        public Form1()
+        public Bai4()
         {
             InitializeComponent();
         }

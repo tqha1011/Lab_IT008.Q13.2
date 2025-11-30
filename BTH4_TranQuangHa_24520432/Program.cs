@@ -16,7 +16,7 @@ namespace BTH4_TranQuangHa_24520432
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Bai6());
+            Application.Run(new Form5());
         }
     }
 }
